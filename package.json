@@ -1,6 +1,6 @@
 {
-    "name": "logo-file-icons-for-vscode",
-    "displayName": "logo-file-icons-for-vscode",
+    "name": "vscode-logo-file-icons",
+    "displayName": "Logo File Icons",
     "description": "Logo file icons for VS Code",
     "version": "0.0.1",
     "publisher": "shizengzhou",
@@ -13,7 +13,7 @@
     "contributes": {
         "iconThemes": [
             {
-                "id": "logo-file-icons-for-vscode",
+                "id": "vscode-logo-file-icons",
                 "label": "Logo File Icons",
                 "path": "./icons/logo-file-icons-for-vscode-icon-theme.json"
             }
